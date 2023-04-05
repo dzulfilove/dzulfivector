@@ -76,7 +76,7 @@ header ul li a:hover{
     overflow: hidden;
 }
 
-.hero::before{
+/* .hero::before{
     content: '';
     position: absolute;
     top: 450px;
@@ -85,8 +85,10 @@ header ul li a:hover{
     height: 30%;
     background: linear-gradient(to top, #080808,transparent);
     z-index: 1000;
+} */
+#front{
+    z-index: 1000;
 }
-
 .hero img{
     position: absolute;
     top: 0;
