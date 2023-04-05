@@ -240,7 +240,7 @@ header ul li a:hover{
     
 }
 
-.about-me::before{
+/* .about-me::before{
     content: '';
     position: absolute;
     bottom: 290px;
@@ -249,7 +249,7 @@ header ul li a:hover{
     height: 30%;
     background: linear-gradient(to bottom, #080808,transparent);
     z-index: 10;
-}
+} */
 
 .about-me h2{
     font-size: 2rem;
@@ -389,7 +389,7 @@ header ul li a:hover{
 
 }
 
-.portofolio::before{
+/* .portofolio::before{
     content: '';
     position: absolute;
     bottom: 780px;
@@ -398,7 +398,7 @@ header ul li a:hover{
     height: 30%;
     background: linear-gradient(to bottom, #080808,transparent);
     z-index: 10;
-}
+} */
 
 
 .port-title{
@@ -451,7 +451,7 @@ header ul li a:hover{
     position: relative;
 }
 
-
+/* 
 .port-content::before{
     content: '';
     position: absolute;
@@ -461,7 +461,7 @@ header ul li a:hover{
     height: 30%;
     background: linear-gradient(to top, #080808,transparent);
     z-index: 10;
-}
+} */
 
 
 
@@ -476,7 +476,7 @@ header ul li a:hover{
     overflow: hidden;
     cursor: pointer;
 }
-
+/* 
 .port-card img::before{
     content: '';
     position: absolute;
@@ -486,7 +486,7 @@ header ul li a:hover{
     height: 30%;
     background: linear-gradient(to top, #080808,transparent);
     z-index: 1000;
-}
+} */
 
 .port-card img{
     width: 100%;
@@ -1014,7 +1014,7 @@ header ul li a:hover{
     border: 1px solid #6598ff;
 }
 
-.portfolio::before{
+/* .portfolio::before{
     content: '';
     position: absolute;
     bottom: 1690px;
@@ -1023,7 +1023,7 @@ header ul li a:hover{
     height: 30%;
     background: linear-gradient(to bottom, #080808,transparent);
     z-index: 10;
-}
+} */
 
 .port-cont{
     margin-top: 2rem;
